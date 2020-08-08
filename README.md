@@ -4,7 +4,7 @@ Yeah, this is really my name. I'm the Head of (Software) Development at Mindfire
 
 🌱 Vegan  
 🚀 In love with rockets and space  
-λ I prefer FP over OOP, but whatever gets the job done.
+**λ** I prefer FP over OOP, but whatever gets the job done.
 
 #### Get in touch
 
