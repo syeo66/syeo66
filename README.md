@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Red 👋
+
+Yeah, this is really my name. I'm the Head of (Software) Development at Mindfire, and I code. Currently I really like Typescript, Go and Dart. But I have experience in a lot of other languages and technologies.
 
 <!--
 **syeo66/syeo66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
