@@ -6,11 +6,11 @@ Yeah, this is really my name. I'm the Head of (Software) Development at Mindfire
 - 🚀 In love with rockets and space  
 - **λ** I prefer FP over OOP, but whatever gets the job done.
 
-#### 🔭  Some stuff I did
+#### Some stuff I did 🔭
 
 - https://shuffle.raven.ch/ - Log in with your Spotify account, select the playlists to pick songs from, click 'Shuffle' to start playing a random selection.
 
-#### Get in touch
+#### Get in touch 📫
 
 - My (old) music site: https://redochsenbein.ch/
 - My (more or less) current CV: https://cv.red0.ch/senbein
