@@ -13,6 +13,7 @@ Yeah, this is really my name. I'm the Head of (Software) Development at Mindfire
 #### Get in touch 📫
 
 - My (old) music site: https://redochsenbein.ch/
+- My HackerRank profile: https://www.hackerrank.com/redochsenbein
 - My (more or less) current CV: https://cv.red0.ch/senbein
 
 
