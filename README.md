@@ -1,6 +1,6 @@
 ### Hi there, I'm Red 👋
 
-Yeah, this is really my name. I'm the Head of (Software) Development at Mindfire, and I code. Currently I really like Typescript, Go and Dart. But I have experience in a lot of other languages and technologies. I already did a lot in my live, from being a banker, to work as music composer, to being a freelance web developer, and designing t-shirts.
+Yeah, this is really my name. I'm a Senior Frontend Developer, and I code. Diving deep into Typescript and React. But I have experience in a lot of other languages and technologies like Go, Dart, Python and PHP. I already did a lot in my live, from being a banker, to work as music composer, to being a freelance web developer, and designing t-shirts.
 
 - 🚀 In love with rockets and space  
 - **λ** I prefer FP over OOP, but whatever gets the job done.
