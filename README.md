@@ -9,6 +9,7 @@ Yeah, this is really my name. I'm a Senior Frontend Developer, and I code. At th
 #### Some stuff I did 🔭
 
 - https://shuffle.raven.ch/ - Log in with your Spotify account, select the playlists to pick songs from, click 'Shuffle' to start playing a random selection.
+- https://slowplayer.raven.ch/ - Virtual version of my slowplayer. See exactly what I see on my desk. 😄
 
 #### Get in touch 📫
 
