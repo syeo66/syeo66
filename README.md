@@ -17,6 +17,8 @@ Yeah, this is really my name. I'm a Senior Frontend Developer, and I code. At th
 - My (old) music site: https://music.redochsenbein.ch/
 - My HackerRank profile: https://www.hackerrank.com/redochsenbein
 
+----
+
 ![Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeo66&count_private=true&theme=radical)
 
 <!--
