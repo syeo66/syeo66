@@ -5,6 +5,7 @@ Yeah, this is really my name. I'm a Senior Frontend Developer, and I code. At th
 - 🚀 In love with rockets and space  
 - **λ** I prefer FP over OOP, but whatever gets the job done.
 - 🌱 Vegan
+- **♂** he/him/his
 
 #### Some stuff I did 🔭
 
