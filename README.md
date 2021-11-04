@@ -16,7 +16,10 @@ Yeah, this is really my name. I'm a Senior Frontend Developer, and I code. At th
 
 - Website: https://ochsenbein.red
 - My (old) music site: https://music.redochsenbein.ch/
+
+<!--
 - My HackerRank profile: https://www.hackerrank.com/redochsenbein
+-->
 
 ----
 
