@@ -1,6 +1,6 @@
 ### Hi there, I'm Red 👋
 
-Yeah, this is really my name. I'm a Senior Software Developer, and I code. At the moment I am diving deep into Typescript, Svelte and React. But I have experience in a lot of other languages and technologies like Go, Dart, Python and PHP. I already did a lot in my live, from being a banker, to work as music composer, to being a freelance web developer, and designing t-shirts.
+Yeah, this is really my name. I'm a Software Developer with many years of experience. At the moment I am diving deep into Typescript, React, Svelte and game development using Unity. But I have experience in a lot of other languages and technologies like Go, Dart, Python and PHP. I already did a lot in my live, from being a banker, playing music on tour, jumping out of planes, being a music composer, to being a freelance web developer, and designing t-shirts.
 
 - 🚀 In love with rockets and space  
 - **λ** I prefer FP over OOP, but whatever gets the job done.
