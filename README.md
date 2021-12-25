@@ -23,6 +23,10 @@ Yeah, this is really my name. I'm a Software Developer with many years of experi
 
 ----
 
+![Red's Codewars rank](https://www.codewars.com/users/syeo66/badges/small)
+
+----
+
 ![Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeo66&count_private=true&theme=radical&show_icons=true)
 ![Red's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeo66&hide=c&theme=radical&layout=compact&langs_count=6)
 
