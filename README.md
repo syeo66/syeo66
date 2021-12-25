@@ -23,7 +23,7 @@ Yeah, this is really my name. I'm a Software Developer with many years of experi
 
 ----
 
-![Red's Codewars rank](https://www.codewars.com/users/syeo66/badges/small)
+[![Red's Codewars rank](https://www.codewars.com/users/syeo66/badges/small)](https://www.codewars.com/users/syeo66)
 
 ----
 
