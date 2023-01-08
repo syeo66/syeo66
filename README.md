@@ -17,7 +17,8 @@ I'm a Software Developer with many years of experience. At the moment I am divin
 #### Get in touch 📫
 
 - Website: https://ochsenbein.red
-- My HackerRank profile: https://www.hackerrank.com/redochsenbein
+- HackerRank profile: https://www.hackerrank.com/redochsenbein
+- Exercism profile: https://exercism.org/profiles/syeo66
 
 ----
 
