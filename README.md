@@ -17,6 +17,9 @@ I'm a Software Developer with many years of experience. At the moment I am divin
 #### Get in touch 📫
 
 - Website: https://ochsenbein.red
+
+<!--
+
 - HackerRank profile: https://www.hackerrank.com/redochsenbein
 - Exercism profile: https://exercism.org/profiles/syeo66
 
@@ -26,7 +29,7 @@ I'm a Software Developer with many years of experience. At the moment I am divin
 
 ----
 
-<!--
+
 
 ![Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeo66&count_private=true&theme=radical&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
