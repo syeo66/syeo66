@@ -14,6 +14,7 @@ I'm a Software Developer with many years of experience. At the moment I am divin
 - https://synth.raven.ch/ - A very simple synth using the Web Audio API
 - https://slowplayer.raven.ch/ - Virtual version of my slowplayer. See exactly what I see on my desk. 😄
 - [iambored](https://www.npmjs.com/package/@redochsenbein/iambored) - A command line tool using ChatGPT to suggest things to do when you're bored.
+- [adventure](https://github.com/syeo66/adventure) - A cli adventure game using ChatGPT as a game master.
 
 #### Get in touch 📫
 
