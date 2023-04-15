@@ -1,6 +1,10 @@
 ### Hi there, I'm Red 👋
 
-I'm a Software Developer with many years of experience. At the moment I am diving deep into Typescript, React, Rust and Elixir, and I love getting my hands dirty in coding puzzles (tech interviewers better be prepared 🤣). But I have experience in a lot of other languages and technologies like Go, Dart, Python and PHP. I already did a lot in my live, from being a banker, playing music on tour, jumping out of planes, being a music composer, to being a freelance web developer, and designing t-shirts.
+I'm a seasoned software developer with a passion for coding puzzles and a love for space exploration. My current areas of focus are TypeScript, React, Rust, and Elixir, but I have experience in many other languages and technologies such as Go, Dart, Python, and PHP.
+
+In my past life, I've worked in various industries, from banking to music composition, and I've even jumped out of planes! As a freelance web developer, I've designed websites and created unique t-shirt designs.
+
+#### Some Fun Facts About Me
 
 - 🚀 In love with rockets and space  
 - **λ** I prefer FP over OOP, but whatever gets the job done.
