@@ -6,8 +6,7 @@ In my past life, I've worked in various industries, from banking to music compos
 
 #### Some Fun Facts About Me
 
-- 🚀 In love with rockets and space  
-- **λ** I prefer FP over OOP, but whatever gets the job done.
+- 🚀 In love with rockets and space
 - 📓 neovim &gt; VSC
 - 🌱 Vegan
 - **♂** he/him/his
