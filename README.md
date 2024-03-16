@@ -1,6 +1,6 @@
 ### Hi there, I'm Red 👋
 
-I'm a seasoned software developer with a passion for coding puzzles and a love for space exploration. My current areas of focus are TypeScript, React, Rust, and Elixir, but I have experience in many other languages and technologies such as Go, Dart, Python, and PHP.
+I'm a seasoned software developer with a passion for coding puzzles and a love for space exploration. My current areas of focus are TypeScript, React, Go, and Elixir, but I have experience in many other languages and technologies such as Rust, Dart, Python, and PHP.
 
 In my past life, I've worked in various industries, from banking to music composition, and I've even jumped out of planes! As a freelance web developer, I've designed websites and created unique t-shirt designs.
 
