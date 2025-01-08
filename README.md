@@ -1,8 +1,8 @@
 ### Hi there, I'm Red 👋
 
-I'm a seasoned software developer with a passion for coding puzzles and a love for space exploration. My current areas of focus are TypeScript, React, Go, and Elixir, but I have experience in many other languages and technologies such as Rust, Dart, Python, and PHP.
+I'm a seasoned software developer with a passion for coding puzzles and a love for space exploration. Currently working at **Frontify**, I focus on TypeScript, React, Go, and Elixir, but I have experience in many other languages and technologies such as Rust, Dart, Python, and PHP.
 
-In my past life, I've worked in various industries, from banking to music composition, and I've even jumped out of planes! As a freelance web developer, I've designed websites and created unique t-shirt designs.
+In my past life, I've worked in various industries, from banking to music composition, and I've even jumped out of planes! As a freelance web developer, I've created websites and developed games and created unique t-shirt designs.
 
 #### Some Fun Facts About Me
 
@@ -18,9 +18,8 @@ In my past life, I've worked in various industries, from banking to music compos
 - [iambored](https://www.npmjs.com/package/@redochsenbein/iambored) - A command line tool using ChatGPT to suggest things to do when you're bored.
 - [adventure](https://github.com/syeo66/adventure) - A cli adventure game using ChatGPT as a game master.
 
-#### Get in touch 📫
-
-- Website: https://ochsenbein.red
+#### Find me at
+🌐 [ochsenbein.red](https://ochsenbein.red)
 
 <!--
 
