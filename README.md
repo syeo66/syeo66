@@ -1,6 +1,6 @@
 ### Hi there, I'm Red 👋
 
-I'm a seasoned software developer with a passion for coding puzzles and a love for space exploration. Currently working at **Frontify**, I focus on TypeScript, React, Go, and Elixir, but I have experience in many other languages and technologies such as Rust, Dart, Python, and PHP.
+I'm a seasoned software developer with a passion for coding puzzles and a love for analog photography. Currently working at **Frontify**, I focus on TypeScript, React, Go, and Elixir, but I have experience in many other languages and technologies such as Rust, Dart, Python, and PHP.
 
 In my past life, I've worked in various industries, from banking to music composition, and I've even jumped out of planes! As a freelance web developer, I've created websites and developed games and created unique t-shirt designs.
 
