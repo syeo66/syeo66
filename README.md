@@ -20,6 +20,7 @@ In my past life, I've worked in various industries, from banking to music compos
 
 #### Find me at
 🌐 [ochsenbein.red](https://ochsenbein.red)
+
 🌐 [red.photos](https://red.photos)
 
 <!--
