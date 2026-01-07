@@ -19,9 +19,8 @@ In my past life, I've worked in various industries, from banking to music compos
 - [adventure](https://github.com/syeo66/adventure) - A cli adventure game using ChatGPT as a game master.
 
 #### Find me at
-🌐 [ochsenbein.red](https://ochsenbein.red)
-
-🌐 [red.photos](https://red.photos)
+- 🌐 [ochsenbein.red](https://ochsenbein.red)
+- 🌐 [red.photos](https://red.photos)
 
 <!--
 
