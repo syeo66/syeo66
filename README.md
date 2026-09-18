@@ -10,14 +10,6 @@ In my past life, I've worked in various industries, from banking to music compos
 - 🌱 Vegan
 - **♂** he/him/his
 
-#### Some stuff I did 🔭
-
-- https://shuffle.raven.ch/ - Log in with your Spotify account, select the playlists to pick songs from, click 'Shuffle' to start playing a random selection.
-- https://synth.raven.ch/ - A very simple synth using the Web Audio API
-- https://slowplayer.raven.ch/ - Virtual version of my slowplayer. See exactly what I see on my desk. 😄
-- [iambored](https://www.npmjs.com/package/@redochsenbein/iambored) - A command line tool using ChatGPT to suggest things to do when you're bored.
-- [adventure](https://github.com/syeo66/adventure) - A cli adventure game using ChatGPT as a game master.
-
 #### Find me at
 - 🌐 [ochsenbein.red](https://ochsenbein.red)
 - 🖼 [red.photos](https://red.photos)
